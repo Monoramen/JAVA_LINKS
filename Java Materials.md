@@ -30,6 +30,7 @@
 - [(Вопросы) Дизайн паттерны](https://github.com/Shell26/Java-Developer/blob/master/patterns.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 - [Анти-паттерны](https://habr.com/ru/articles/59005)
 - [Паттерны микросервисов](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e)
+- [26 Основных паттернов микросервисной разработки](https://cloud.vk.com/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki)
 - [САР теория](https://habr.com/ru/articles/328792)
 
 
