@@ -1,4 +1,4 @@
-Материалы Java
+## Ссылки на материалы по Java
 
 **Core**
 - [(Вопросы) ООП](https://github.com/Shell26/Java-Developer/blob/master/oop.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC)
@@ -46,7 +46,7 @@
 
 **Database**
 - [Нормальные формы БД](https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples)
-- [Индексы БД(https://www.atlassian.com/data/databases/how-does-indexing-work)
+- [Индексы БД](https://www.atlassian.com/data/databases/how-does-indexing-work)
 - [SQL основные команды](https://www.dbvis.com/wp-content/uploads/2024/04/SQL-Cheat-Sheet.pdf)
 - [(Вопросы) SQL](https://github.com/Shell26/Java-Developer/blob/master/sql.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-sql)
 - [Курс по SQL](https://learnsql.com/)
@@ -65,5 +65,10 @@
 - [Котлин фишки](https://bimlibik.github.io/tags/kotlin)
 
 **Spring**
-- [SpringSecurity](https://habr.com/ru/articles/203318/)
+- [Spring Security](https://habr.com/ru/articles/203318/)
 - [Spring изнутри. Этапы инициализации контекста](https://habr.com/ru/articles/222579/)
+
+
+## Java Road Map
+
+![[Pasted image 20241023175103.png]]
